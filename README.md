@@ -4,3 +4,8 @@ This is for training purposes. I am learning about GitHub and how to do daily ta
 
 Details for Erica Williams stated here for informational purposes.
 Kevin's details can be found in this GitHub.
+
+## Contributors
+
+- Erica Williams
+- Kev Howbrook 
