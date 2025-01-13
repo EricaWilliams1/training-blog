@@ -7,5 +7,5 @@ Kevin's details can be found in this GitHub.
 
 ## Contributors
 
-- Erica W
-- Kev H
+- Erica Williams
+- Kev Howbrook 
