@@ -8,4 +8,4 @@ Kevin's details can be found in this GitHub.
 ## Contributors
 
 - Erica Williams
-- Kevin Brian Howbrook
+- Kevin Howbrook
